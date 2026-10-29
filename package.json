@@ -1,0 +1,7 @@
+{
+  "name": "nohumophong-vnvn",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
